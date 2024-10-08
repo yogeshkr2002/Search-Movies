@@ -1,0 +1,32 @@
+.searchBox{
+    background-color: violet;
+    padding: 20px;
+    text-align: center;
+    margin: 5px;
+}
+.searchInputColor{
+    background-color: violet;
+    margin: 20px;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    margin: 5px;
+    /* border: 5px solid red; */
+
+}
+.boxItem{
+    margin: 5px;
+    width: 300px;
+    height: 350px;
+    border: 2px solid black;
+    text-align: center;
+    /* background-color: aqua; */
+}
+
+.img{
+    width: 300px;
+    height: 250px;
+}
